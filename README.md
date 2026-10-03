@@ -1,6 +1,6 @@
 # 🎯 GATE CSE Preparation
 
-A structured collection of **free resources, lecture playlists, live classes, PYQs, notes, standard books, NPTEL lectures, and a subject-wise preparation plan** for GATE Computer Science & Information Technology (CSE/IT).
+A collection of **free resources, live classes, video lectures, PYQs, notes, standard books, NPTEL lectures, and practice resources** for GATE Computer Science & Information Technology (CSE/IT).
 
 > **Daily Reminder:**  
 > *“Is what you are doing today taking you closer to where you want to be tomorrow?”*
@@ -8,8 +8,6 @@ A structured collection of **free resources, lecture playlists, live classes, PY
 ---
 
 ## 📚 GATE CSE Subjects
-
-The preparation is organized into the following major subjects:
 
 1. Programming & Data Structures (PDS)
 2. Algorithms (ALGO)
@@ -26,55 +24,33 @@ The preparation is organized into the following major subjects:
 
 ---
 
-# 🗓️ Preparation Timeline
+# 📖 Subject Sequence
 
-| S.No. | Subject 
-|---:|---|---|---|---|
-| 1 | Programming & Data Structures 
-| 2 | Algorithms 
-| 3 | Digital Logic 
-| 4 | Computer Organization & Architecture 
-| 5 | Computer Networks 
-| 6 | Operating Systems 
-| 7 | DBMS 
-| 8 | Theory of Computation 
-| 9 | Compiler Design 
-| 10 | Engineering Mathematics 
-| 11 | Discrete Mathematics 
-| 12 | Aptitude & English
+| S.No. | Subject | Duration |
+|---:|---|---:|
+| 1 | Programming & Data Structures | 3 weeks |
+| 2 | Algorithms | 3 weeks |
+| 3 | Digital Logic | 2 weeks |
+| 4 | Computer Organization & Architecture | 3 weeks |
+| 5 | Computer Networks | 4 weeks |
+| 6 | Operating Systems | 2.5 weeks |
+| 7 | DBMS | 2.5 weeks |
+| 8 | Theory of Computation | 3 weeks |
+| 9 | Compiler Design | 3 weeks |
+| 10 | Engineering Mathematics | 3 weeks |
+| 11 | Discrete Mathematics | 3 weeks |
+| 12 | Aptitude & English | 2 weeks |
 
-> **Alternative:** Mathematics can be studied gradually alongside the core subjects instead of keeping it entirely for the end.
-
----
-
-### Recommended Study Cycle
-
-```text
-Learn Concept
-     ↓
-Watch Lecture
-     ↓
-Make Short Notes
-     ↓
-Solve Practice Questions
-     ↓
-Solve PYQs
-     ↓
-Take Subject Test
-     ↓
-Analyze Mistakes
-     ↓
-Cyclic Revision
-```
+> **Note:** Mathematics can also be studied alongside the core subjects.
 
 ---
 
 # 🎥 Live Classes & Direct Class Links
 
-### GeeksforGeeks Live Classes
+### GeeksforGeeks
 
 - [GFG GATE Live Classes](https://www.geeksforgeeks.org/batch/gate-demo-videos-1?tab=Live)
-- [GATE Question / Practice Track](https://www.geeksforgeeks.org/batch/gate-demo-videos-1/track/gate-2026-question/article/MTYxNDQ%3D)
+- [GATE Question Practice](https://www.geeksforgeeks.org/batch/gate-demo-videos-1/track/gate-2026-question/article/MTYxNDQ%3D)
 - [All India Mock Test](https://www.geeksforgeeks.org/batch/gate-demo-videos-1/track/all-india-mock-test-2026-da/video/NDExNDQ%3D)
 - [GFG GATE Leaderboard](https://www.geeksforgeeks.org/batch/gate-demo-videos-1?tab=Leaderboard)
 
@@ -137,8 +113,6 @@ Cyclic Revision
 
 # 🎓 NPTEL Lectures
 
-Useful for deeper conceptual understanding and selected topics.
-
 | Subject | Resource |
 |---|---|
 | Algorithms | [NPTEL Algorithms](https://www.youtube.com/playlist?list=PLsynzwEPktKqMdYnMusODoXe8640vwoGy) |
@@ -153,7 +127,7 @@ Useful for deeper conceptual understanding and selected topics.
 
 ---
 
-# 📖 GFG GATE Notes
+# 📑 GFG GATE Notes
 
 - [GeeksforGeeks GATE CS Notes](https://www.geeksforgeeks.org/gate-cs-notes-gq/)
 
@@ -161,8 +135,8 @@ Useful for:
 
 - Concept revision
 - Topic-wise notes
+- Quick revision
 - Practice
-- Quick revision before tests
 
 ---
 
@@ -181,85 +155,75 @@ Useful for:
 | CD | *Principles of Compiler Design* — Aho & Ullman |
 | DM | *Discrete Mathematics and Its Applications* — Kenneth H. Rosen |
 
-> **Tip:** Standard books should mainly be used for concepts and difficult topics. Avoid trying to read every book cover-to-cover during GATE preparation.
-
 ---
 
 # 📝 Previous Year Questions — PYQs
 
-PYQs are one of the most important parts of preparation.
-
 ### GATEOverflow
 
 - [GATEOverflow](https://gateoverflow.in/)
-- [GATEOverflow PYQ PDFs / Resources](https://github.com/GATEOverflow/GO-PDFs?tab=readme-ov-file)
+- [GATEOverflow PYQ PDFs](https://github.com/GATEOverflow/GO-PDFs?tab=readme-ov-file)
 
 ### Official GATE Papers
 
-- [GATE 2022–2024 Question Papers](https://gate2024.iisc.ac.in/download/)
+- [GATE Question Papers & Downloads](https://gate2024.iisc.ac.in/download/)
 
 ### PYQ Strategy
 
 ```text
-Concept → Topic-wise PYQ → Subject-wise PYQ
-       → Mixed PYQ → Full-Length Paper
+Concept
+   ↓
+Topic-wise PYQs
+   ↓
+Subject-wise PYQs
+   ↓
+Mixed PYQs
+   ↓
+Full-Length Papers
 ```
 
-> **Tip:** Keep the most recent papers untouched and use them later as full-length practice tests.
+> **Tip:** Keep a few recent papers untouched and use them later as full-length practice tests.
 
 ---
 
 # 📚 Additional Free Resources
 
-### GateOverflow
+## GateOverflow
 
 [GateOverflow](https://gateoverflow.in/)
 
 Useful for:
 
 - GATE questions
+- Previous-year questions
 - Detailed discussions
 - Concept clarification
-- Previous-year questions
 
-### Neso Academy
+## Neso Academy
 
 [Neso Academy — YouTube](https://www.youtube.com/@nesoacademy)
 
-Useful for:
+Useful for Computer Science concepts and selected GATE topics.
 
-- Computer Science concepts
-- Digital Logic
-- COA
-- OS
-- DBMS
-- Networks
-- TOC
-
-### GATE Smashers
+## GATE Smashers
 
 [GATE Smashers — YouTube](https://www.youtube.com/@GateSmashers)
 
-Useful for:
+Useful for GATE concepts, revision and exam-oriented preparation.
 
-- GATE concepts
-- Revision
-- CS subjects
-- Exam-oriented explanations
-
-### MIT OpenCourseWare
+## MIT OpenCourseWare
 
 [MIT OpenCourseWare](https://ocw.mit.edu/)
 
-Useful particularly for deeper understanding of algorithms and computer science concepts.
+Useful for deeper conceptual understanding, especially algorithms and computer science fundamentals.
 
-### GeeksforGeeks Practice
+## GeeksforGeeks Practice
 
 [GeeksforGeeks Practice](https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions)
 
 Useful for:
 
-- Programming practice
+- Programming
 - Data Structures
 - Algorithms
 - Quizzes
@@ -267,7 +231,7 @@ Useful for:
 
 ---
 
-# 📂 Extra Study Materials
+# 📂 Additional Study Materials
 
 ### Google Drive Resources
 
@@ -279,7 +243,7 @@ Useful for:
 
 ### Additional Notes
 
-[Additional GATE/CSE Notes](https://docs.google.com/document/d/1d26YweRbbUPBW2p16dKJCz6tzW8jwJjvXIzdk3USXg/edit?tab=t.0)
+[Additional GATE/CSE Notes](https://docs.google.com/document/d/1d26YweRbbUPBW2p16dKJCz6tzW8jwJjvXJIzdk3USXg/edit?tab=t.0)
 
 ### GATE Question Discussion
 
@@ -287,116 +251,9 @@ Useful for:
 
 ---
 
-# 📊 GATE Preparation Sheet
+# 🧠 Core CS Topic Checklist
 
-A useful preparation structure:
-
-| Activity | Target Period |
-|---|---|
-| Syllabus Completion | April – November |
-| Short Notes | Throughout syllabus |
-| Cyclic Revision | Throughout syllabus |
-| PYQs | Throughout syllabus |
-| Subject Tests | Throughout syllabus |
-| Multi-Subject Tests | Throughout syllabus |
-| Full-Length Tests | August – February |
-| Final Revision | December – February |
-
----
-
-# 🧠 Daily Study Method
-
-A simple daily routine:
-
-### 1️⃣ Learn
-
-Watch the lecture and understand the concept.
-
-### 2️⃣ Revise
-
-Read your notes immediately after the lecture.
-
-### 3️⃣ Practice
-
-Solve conceptual questions and numerical problems.
-
-### 4️⃣ PYQs
-
-Solve GATE questions from the topic studied.
-
-### 5️⃣ Analyze
-
-Maintain a mistake notebook.
-
-Record:
-
-- ❌ Questions answered incorrectly
-- ⚠️ Concepts that caused confusion
-- 🧮 Calculation mistakes
-- 🧠 Questions requiring a different approach
-- ⭐ Important formulas/concepts
-
-### 6️⃣ Revise Again
-
-Use cyclic revision instead of studying a topic only once.
-
----
-
-# 🔄 Revision Strategy
-
-Use a cyclic revision system:
-
-```text
-Day 1
- ↓
-Learn Topic
-
-Day 2–3
- ↓
-Quick Revision
-
-Day 7
- ↓
-Revision + PYQs
-
-Day 15
- ↓
-Revision + Test
-
-Day 30
- ↓
-Final Cyclic Revision
-```
-
----
-
-# 🎯 Subject Preparation Formula
-
-For every subject:
-
-```text
-1. Complete Syllabus
-        ↓
-2. Watch Lectures
-        ↓
-3. Make Short Notes
-        ↓
-4. Practice Questions
-        ↓
-5. Solve PYQs
-        ↓
-6. Take Subject Test
-        ↓
-7. Analyze Mistakes
-        ↓
-8. Revise
-```
-
----
-
-# 💻 Core CS Topic Checklist
-
-### Programming & Data Structures
+## Programming & Data Structures
 
 - C Programming
 - Pointers
@@ -407,13 +264,13 @@ For every subject:
 - Stack
 - Queue
 - Trees
-- BST
-- Heap
+- Binary Search Trees
+- Heaps
 - Graphs
 
-### Algorithms
+## Algorithms
 
-- Complexity Analysis
+- Asymptotic Analysis
 - Searching
 - Sorting
 - Hashing
@@ -424,7 +281,7 @@ For every subject:
 - Shortest Path
 - Minimum Spanning Tree
 
-### Digital Logic
+## Digital Logic
 
 - Boolean Algebra
 - Logic Gates
@@ -433,23 +290,24 @@ For every subject:
 - Minimization
 - Number Representation
 
-### COA
+## Computer Organization & Architecture
 
 - Machine Instructions
 - Addressing Modes
 - ALU
 - Datapath
 - Control Unit
-- Pipelining
+- Instruction Pipelining
 - Cache
 - Memory Hierarchy
 - I/O
 
-### Computer Networks
+## Computer Networks
 
 - OSI Model
-- TCP/IP
+- TCP/IP Model
 - Data Link Layer
+- Framing
 - Error Detection
 - MAC
 - Ethernet
@@ -465,7 +323,7 @@ For every subject:
 - FTP
 - SMTP
 
-### Operating Systems
+## Operating Systems
 
 - Processes
 - Threads
@@ -479,7 +337,7 @@ For every subject:
 - Virtual Memory
 - File Systems
 
-### DBMS
+## DBMS
 
 - ER Model
 - Relational Model
@@ -494,38 +352,38 @@ For every subject:
 - Transactions
 - Concurrency Control
 - Indexing
-- B-Tree
-- B+ Tree
+- B-Trees
+- B+ Trees
 
-### Theory of Computation
+## Theory of Computation
 
 - Regular Expressions
 - Finite Automata
 - Regular Languages
-- CFG
-- PDA
-- CFL
+- Context-Free Grammar
+- Pushdown Automata
+- Context-Free Languages
 - Pumping Lemma
 - Turing Machines
 - Undecidability
 
-### Compiler Design
+## Compiler Design
 
 - Lexical Analysis
 - Syntax Analysis
 - Parsing
-- Syntax Directed Translation
+- Syntax-Directed Translation
 - Runtime Environment
 - Intermediate Code Generation
 
-### Engineering Mathematics
+## Engineering Mathematics
 
 - Linear Algebra
 - Calculus
 - Probability
 - Statistics
 
-### Discrete Mathematics
+## Discrete Mathematics
 
 - Logic
 - Sets
@@ -537,66 +395,82 @@ For every subject:
 - Combinatorics
 - Recurrence Relations
 - Generating Functions
-- Groups and Monoids
+- Groups
+- Monoids
 
 ---
 
-# 📌 Useful Links
+# 🔄 Revision Method
 
-| Resource | Link |
-|---|---|
-| GFG GATE Syllabus | [GATE CSE Syllabus](https://www.geeksforgeeks.org/gate/gate-cse-syllabus/) |
-| GFG Live Classes | [Live Classes](https://www.geeksforgeeks.org/batch/gate-demo-videos-1?tab=Live) |
-| GATEOverflow | [GateOverflow](https://gateoverflow.in/) |
-| GATEOverflow PYQs | [GO-PDFs](https://github.com/GATEOverflow/GO-PDFs) |
-| GFG Notes | [GATE CS Notes](https://www.geeksforgeeks.org/gate-cs-notes-gq/) |
-| Official GATE Downloads | [GATE Papers](https://gate2024.iisc.ac.in/download/) |
-| GFG Practice | [Practice](https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions) |
-
----
-
-# ⚠️ Important: Keep Credentials Private
-
-Do **not** store GATE/GFG login credentials, email passwords, access tokens, or private account information in this repository.
-
-If a class requires login, keep the credentials in your password manager or use the official login page.
-
----
-
-# 🚀 Final Preparation Mindset
+For every completed topic:
 
 ```text
-Consistency > Random Study
-
-Concepts > Memorization
-
-PYQs > Passive Watching
-
-Revision > Re-reading
-
-Analysis > Just Giving Tests
-
-Practice + Revision + PYQs = GATE Preparation
+Learn
+  ↓
+Make Short Notes
+  ↓
+Practice Questions
+  ↓
+Solve PYQs
+  ↓
+Take Test
+  ↓
+Analyze Mistakes
+  ↓
+Revise
 ```
 
-> **Keep studying. Keep solving. Keep revising.**
->
-> **One topic at a time. One PYQ at a time. One test at a time.**
+### Maintain a Mistake Notebook
+
+Record:
+
+- ❌ Incorrect questions
+- ⚠️ Concepts you forgot
+- 🧮 Calculation mistakes
+- 🧠 Questions requiring a different approach
+- ⭐ Important formulas and concepts
 
 ---
 
-## ⭐ Repository Goal
+# 🚀 Preparation Formula
 
-This repository is intended to serve as a **single place for GATE CSE preparation resources**, including:
+```text
+Concepts
+   +
+Practice
+   +
+PYQs
+   +
+Revision
+   +
+Mock Tests
+   =
+GATE Preparation
+```
+
+---
+
+# 🔐 Important
+
+**Never store passwords, login credentials, access tokens, or private account information in this GitHub repository.**
+
+Keep account credentials in a password manager or use the official login page when accessing paid/live classes.
+
+---
+
+## ⭐ Repository Purpose
+
+This repository brings together useful **GATE CSE preparation resources** in one place:
 
 - 📚 Subject-wise resources
-- 🎥 Free video lectures
+- 🎥 YouTube lectures
 - 🔴 Live classes
 - 📝 PYQs
 - 📖 Standard books
 - 🎓 NPTEL lectures
 - 📑 Notes
 - 🧪 Practice resources
-- 📊 Preparation timelines
-- 🔄 Revision strategy
-- 🎯 Mock-test preparation
+- 🔄 Revision resources
+- 🎯 Mock-test resources
+
+> **Learn → Practice → Solve PYQs → Test → Analyze → Revise**
