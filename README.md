@@ -28,36 +28,24 @@ The preparation is organized into the following major subjects:
 
 # 🗓️ Preparation Timeline
 
-| S.No. | Subject | Duration | Start | End |
+| S.No. | Subject 
 |---:|---|---|---|---|
-| 1 | Programming & Data Structures | 3 weeks | 1-Apr | 22-Apr |
-| 2 | Algorithms | 3 weeks | 23-Apr | 15-May |
-| 3 | Digital Logic | 2 weeks | 16-May | 31-May |
-| 4 | Computer Organization & Architecture | 3 weeks | 1-Jun | 25-Jun |
-| 5 | Computer Networks | 4 weeks | 26-Jun | 25-Jul |
-| 6 | Operating Systems | 2.5 weeks | 26-Jul | 12-Aug |
-| 7 | DBMS | 2.5 weeks | 13-Aug | 31-Aug |
-| 8 | Theory of Computation | 3 weeks | 1-Sep | 25-Sep |
-| 9 | Compiler Design | 3 weeks | 26-Sep | 15-Oct |
-| 10 | Engineering Mathematics | 3 weeks | 16-Oct | 10-Nov |
-| 11 | Discrete Mathematics | 3 weeks | 11-Nov | 30-Nov |
-| 12 | Aptitude & English | 2 weeks | — | — |
+| 1 | Programming & Data Structures 
+| 2 | Algorithms 
+| 3 | Digital Logic 
+| 4 | Computer Organization & Architecture 
+| 5 | Computer Networks 
+| 6 | Operating Systems 
+| 7 | DBMS 
+| 8 | Theory of Computation 
+| 9 | Compiler Design 
+| 10 | Engineering Mathematics 
+| 11 | Discrete Mathematics 
+| 12 | Aptitude & English
 
 > **Alternative:** Mathematics can be studied gradually alongside the core subjects instead of keeping it entirely for the end.
 
 ---
-
-# 📈 Overall Preparation Strategy
-
-| Task | Period |
-|---|---|
-| Syllabus Completion | 1-Apr → 30-Nov |
-| Making Short Notes | 1-Apr → 30-Nov |
-| Cyclic Revision | 1-Apr → 30-Nov |
-| PYQs | 1-Apr → 30-Nov |
-| Subject & Multi-Subject Tests | 1-Apr → 30-Nov |
-| Full-Length Test Series | 15-Aug → 28-Feb |
-| Full Revision | 1-Dec → 28-Feb |
 
 ### Recommended Study Cycle
 
